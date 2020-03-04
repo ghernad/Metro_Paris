@@ -1,0 +1,9 @@
+#fichier de configuration 
+#path1=/Users/Nadia/Documents/Maths/PROJET_METRO_PYTHON/clear_data/base_FINAL.csv
+#path2=/Users/Nadia/Documents/Maths/PROJET_METRO_PYTHON/clear_data/ordre_stations_FINAL.csv
+path1=/users/mmath/ghernaou/PROJET_FINAL/base_FINAL.csv
+path2=/users/mmath/ghernaou/PROJET_FINAL/ordre_stations_FINAL.csv
+vitesse_marcheur=5
+temps_entre_stations=70
+temps_de_correspondance=200
+
